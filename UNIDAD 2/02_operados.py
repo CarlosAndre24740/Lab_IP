@@ -1,0 +1,5 @@
+operador=input("Ingrese un operador: (+,-,*,/): ")
+O1=int(input("Ingrese el primer número: "))
+O2=int(input("Ingrese el segundo número: "))
+resultado(O1+operador)
+eval("8+2")
