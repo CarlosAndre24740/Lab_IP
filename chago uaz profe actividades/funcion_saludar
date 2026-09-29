@@ -1,0 +1,10 @@
+def saludar():
+    print("buenos dias estimados estudiantes")
+    print("dame tu nombre")
+    nombre = input()
+    print("buenos dias estimado estudiante" + nombre)
+    
+    return 
+
+# Main
+saludar()
