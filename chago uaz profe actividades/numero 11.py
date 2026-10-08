@@ -24,3 +24,5 @@ while numero != 0:
     numero = int(input())
 
 print("Fin del algoritmo")
+
+
